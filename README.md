@@ -1,6 +1,6 @@
 Node.js Chat
 ===
-By Manoj Das
+By Manoj Das  GitClient
 
 This application is made with Node.js, Express, Socket.io and Jade.
 It use Bootstrap from Twitter and the javascript librairie SlimScroll.
